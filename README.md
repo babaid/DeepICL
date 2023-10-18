@@ -42,6 +42,7 @@ python -u generate.py --ncpu {NCPU} --k 8 --data_dir {DATA_DIR} --key_dir {KEY_D
 ```
 
 It took about a minute to generate 100 samples with 8 CPUs.
+
 Ligand elaboration with a predefined core is demonstrated in this [Demo](https://drive.google.com/file/d/10uxhu7vUuEkefOe7yb2FeE-6Ekdfp8qR/view?usp=sharing).
 
 
