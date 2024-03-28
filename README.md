@@ -52,5 +52,17 @@ Ligand elaboration with a predefined core is demonstrated in this [Demo](https:/
 
 ## Citing this work
 ```
-Zhung, W., Kim, H. & Kim, W.Y. 3D molecular generative framework for interaction-guided drug design. Nat Commun 15, 2688 (2024). https://doi.org/10.1038/s41467-024-47011-2
+@article{Zhung2024,
+  title = {3D molecular generative framework for interaction-guided drug design},
+  volume = {15},
+  ISSN = {2041-1723},
+  url = {http://dx.doi.org/10.1038/s41467-024-47011-2},
+  DOI = {10.1038/s41467-024-47011-2},
+  number = {1},
+  journal = {Nature Communications},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Zhung,  Wonho and Kim,  Hyeongwoo and Kim,  Woo Youn},
+  year = {2024},
+  month = mar 
+}
 ```
