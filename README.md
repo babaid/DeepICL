@@ -3,7 +3,7 @@
 [//]: # (Badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is a repository of our paper, "A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design" ([ChemRxiv link](https://chemrxiv.org/engage/chemrxiv/article-details/6482d9dbbe16ad5c57af1937#)).
+This is a repository of our paper, "3D molecular generative framework for interaction-guided drug design", Nat Commun 15, 2688 (2024). ([Link](https://doi.org/10.1038/s41467-024-47011-2)).
 
 Inspired by how the practitioners manage to improve the potency of a ligand toward a target protein, we devised a strategy where prior knowledge of appropriate interactions navigates the ligand generation.
 Our proposed model, DeepICL (**Deep** **I**nteraction-**C**onditioned **L**igand generative model), employs an interaction condition that captures the local pocket environment to precisely control the generation process of a ligand inside a binding pocket.
