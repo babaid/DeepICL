@@ -9,7 +9,7 @@ Inspired by how the practitioners manage to improve the potency of a ligand towa
 Our proposed model, DeepICL (**Deep** **I**nteraction-**C**onditioned **L**igand generative model), employs an interaction condition that captures the local pocket environment to precisely control the generation process of a ligand inside a binding pocket.
 
 <p align="center">
-  <img src="image/fig1.jpg" /> 
+  <img src="image/figure 1.jpg" /> 
 </p>
 
 
