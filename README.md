@@ -1,4 +1,8 @@
+
 # DeepICL
+
+This fork of DeepICL enforces some good practices in software development and tries to make the code more understandable and in general more easier to use.
+
 
 [//]: # (Badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
